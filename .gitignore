@@ -1,0 +1,13 @@
+*.pyc
+*.egg-info
+build/
+dist/
+docs/_build
+.python-version
+.tox
+.coverage
+.coverage.*
+.xmlcoverage/
+.venv/
+.idea
+.env
